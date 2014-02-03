@@ -10,9 +10,9 @@ body {
 #constructor {
   background: url(http://ercportal.jrc.ec.europa.eu/portals/0/construction.png);
   background-repeat: no-repeat;
+  text-align: center;
 }
 p {
   color:white;
   font-size: 32px;
-  text-align: center;
 }
